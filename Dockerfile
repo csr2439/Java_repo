@@ -4,3 +4,5 @@ COPY target/*.war /usr/local/tomcat/webapps/myweb.war
 
 ---------------------------
 Added some info here/ webhooks integration.
+---------------------
+NOW POLL SCM
