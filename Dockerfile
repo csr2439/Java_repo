@@ -8,3 +8,5 @@ Added some info here/ webhooks integration.
 NOW POLL SCM
 ==============
 Auomated using CRON at specific time
+
+last time - 14:48
